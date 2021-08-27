@@ -17,6 +17,6 @@ function bmiCalculator(weight, height){
 
 var bmi = bmiCalculator(65, 1.8); 
 
-bmi should equal 20 when it's rounded to the nearest whole number.
+bmi should equal 20 when it's rounded to the nearest whole  number.
 
 */
