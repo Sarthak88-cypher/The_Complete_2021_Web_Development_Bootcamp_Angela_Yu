@@ -1,0 +1,21 @@
+function isLeap(year) {
+    
+/**************Don't change the code above****************/    
+    
+    //Write your code here.  
+    var res = "Leap year.";
+    var ans = "Not leap year.";
+    
+    if(year % 4 === 0 && year % 100 !== 0 || year % 400 === 0){
+        return res;
+    }
+    else{
+        return ans;
+    }
+
+
+    
+
+/**************Don't change the code below****************/    
+
+}
