@@ -13,7 +13,7 @@ function lifeInWeeks(age) {
     
     
     
-/*************Don't change the code below**********/
+/************Don't change the code below**********/
 }
 lifeInWeeks( age = prompt("How old are you?"));
 
