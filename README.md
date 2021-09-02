@@ -40,9 +40,11 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tools used
-  * codepen
+  * Codepen
   * Atom
   * Postman
   * Hyper terminal
   * Visual Studio Code
+  * Sublime Text
+  * Heroku
   * https://codesandbox.io/
