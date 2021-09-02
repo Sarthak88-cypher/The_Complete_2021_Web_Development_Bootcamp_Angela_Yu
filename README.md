@@ -47,4 +47,4 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
   * Visual Studio Code
   * Sublime Text
   * Heroku
-  * https://codesandbox.io/
+  * https://codesandbox.io/ 
