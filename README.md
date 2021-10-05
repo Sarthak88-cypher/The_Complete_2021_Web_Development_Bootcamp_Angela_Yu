@@ -48,3 +48,6 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
   * Sublime Text
   * Heroku
   * https://codesandbox.io/ 
+
+
+### Author : Sai Sarthak Mohapatra
