@@ -1,53 +1,54 @@
-# The_Complete_2021_Web_Development_Bootcamp_Angela_Yu
-## Certification
+# TASK 2 FOR SYSCLOUD
+## Team 2 - Node.Js
 
-![Alt text](Web_Development_Certificate.jpg?raw=true "certificate")
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Resources
 
-https://www.appbrewery.co/p/web-development-course-resources
+https://jsdoc.app/
 
-## Projects
+https://jest-bot.github.io/jest/docs/asynchronous.html
 
-- Project 1 : Using HTML created personal site 
+https://github.com/eslintcc/eslintcc
 
-- Project 2 :  Intro to HTML, CSS and Bootstrap 
+https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/
 
-- Project 3 : Dice game - JS and DOM methods 
+## TASK Details :
 
-- Project 4 : Drum kit - JS Keyboard events
+- 1 : Creation JSON Package and Installing Various Tools (ESLint,JSDoc,ESLintCC,JEST & etc.)
 
-- Project 5 : Simon Game - JS and jQuery 
+- 2 : Creating Source Folder and Creating Three Programs with sam logic for CallBack,Promise,Async_Await.
 
-- Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
+- 3 : Creatung DOCS Folder for Code Docmentation , JSDOC is used.
 
-- Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
+- 4 : Creating Tests Folder for Code Unit Testing , JEST is used.
 
-- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc 
+- 5 : Installing Tool For Checking and Fixing Code Linting , ESLint is used.
 
-- Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
+- 6 : Installing Tool For Checking and Fixing Code Coverage , JSDOC --coverage is used.
 
-Check out: https://fast-caverns-68436.herokuapp.com/
+- 7 : Installing Tool For Checking and Fixing Code Complexity , ESLintCC is used.
+
+- 8 : Cloning Repo and Then Commiting the Task from Local using git.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Topics :
-HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
-mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Build REST API from scratch, Heroku.
+HTML, CSS, JavaScript, jQuery, Node.js, Express, body-parser, JSON, npm, Code Documentation, JSDOC, Unit testing, JEST, Code Linting, ESLint, Code Coverage, JSDOC --coverage, Code Complexity, ESLintCC, git.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tools used
-  * Codepen
-  * Atom
-  * Postman
   * Hyper terminal
   * Visual Studio Code
-  * Sublime Text
-  * Heroku
-  * https://codesandbox.io/ 
+  * JSDOC
+  * JEST
+  * ESLint
+  * JSDOC
+  * ESLintCC
+  * git
 
 
-### Author : Sai Sarthak Mohapatra
+  ### Author : Sai Sarthak Mohapatra
+
